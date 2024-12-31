@@ -5,6 +5,10 @@ create an avatar for a user...
 
 process the data.
 
+<<<<<<< HEAD
 Login and Logout.
 
 Change1.
+=======
+Login and Logout.
+>>>>>>> feature3
